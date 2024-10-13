@@ -1,0 +1,11 @@
+{
+  "name": "remove-json-files-recursively",
+  "version": "1.0.0",
+  "description": "App to remove specific file types recursively",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nilesh bhujbal",
+  "license": "ISC"
+}

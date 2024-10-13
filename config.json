@@ -1,0 +1,8 @@
+{
+    "recursive": true,
+    "fileType": "json",
+    "absoulateFolderPathtoDelete": "D:/Google Takeout/",
+    "writeFilenameLogs": true,
+    "logFilePath": "D:/node-apps/remove-json-files-recursively/",
+    "simulate": false
+}
